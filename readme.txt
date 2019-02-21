@@ -1,4 +1,4 @@
 Git is a version control system.
 Git is free software.
 create a branch is so easy.
-create a branch named feature1.
+solve conflict problem
