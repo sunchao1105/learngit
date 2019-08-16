@@ -4,3 +4,4 @@ create a branch is so easy.
 solve conflict problem.
 
 add test1
+add test2
